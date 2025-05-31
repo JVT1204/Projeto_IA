@@ -1,0 +1,16 @@
+{
+    "category_to_id": {
+        "resultado": 0,
+        "transferencia": 1,
+        "lesao": 2,
+        "tatica": 3,
+        "outras": 4
+    },
+    "id_to_category": {
+        "0": "resultado",
+        "1": "transferencia",
+        "2": "lesao",
+        "3": "tatica",
+        "4": "outras"
+    }
+}
