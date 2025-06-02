@@ -39,16 +39,15 @@ Este projeto implementa um classificador de notícias de futebol utilizando téc
   
 
 ### 3. Artigo do Projeto
-- *Arquivo*: Projeto_IA/artigo_projeto.md
+- *Arquivo*: Projeto_IA/Artigo_NoticiasEsportivasIA.pdf
 - *Descrição*: Documento técnico detalhando:
-  - Metodologia utilizada
-  - Arquitetura do modelo
-  - Resultados e análises
-  - Conclusões e trabalhos futuros
+  - Introdução
+  - Fundamentação
+  - Implementação
+  - Conclusão e discussão
 
 ### 4. Vídeo de Apresentação
-- *Link*: 
-- *Duração*: 3 minutos
+- *Link*: https://youtu.be/yaS5sMjIv28
 - *Conteúdo*:
   - Demonstração do projeto
   - Principais funcionalidades
